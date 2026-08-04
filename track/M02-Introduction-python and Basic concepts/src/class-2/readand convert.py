@@ -1,0 +1,10 @@
+s=input()
+a=int(input())
+c=float(input())
+
+print(f"Student: {s}")
+print(f"Age: {a}")
+print(f"Rating: {c}")
+print(type(s))
+print(type(a))
+print(type(c))
